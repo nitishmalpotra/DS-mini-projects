@@ -12,3 +12,7 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 - Who are the most prolific musicians in terms of halftime show performances?
 
 The dataset used in this project was scraped and polished from Wikipedia. It is made up of three CSV files, one with [game data](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions), one with [TV data](https://en.wikipedia.org/wiki/Super_Bowl_television_ratings), and one with [halftime musician data](https://en.wikipedia.org/wiki/List_of_Super_Bowl_halftime_shows) for all 52 Super Bowls through 2018.
+
+### [02 - Churn Emails Inbox - Dataset](https://github.com/nitishmalpotra/DS-mini-projects/tree/main/02%20-%20Churn%20Emails%20-%20Dataset)
+
+This project on Churning the Emails Inbox with Python. In this project, you will use Python to access the data from files and process it to achieve certain tasks. You will explore the MBox email dataset, and use Python to count lines, headers, subject lines by emails and domains.
