@@ -20,19 +20,3 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 This project on Churning the Emails Inbox will use Python to access the data from files and process it to achieve certain tasks. We will explore the MBox email dataset, and use Python to count lines, headers, subject lines by emails and domains.
 
 ***
-
-### 03 - Predict if the client will subscribe to a term deposit based on the analysis of the marketing campaigns
-
-##### Case Study: Bank Marketing
-An international bank has done a multi-touch phone campaign. All the campaign and customer data has been recorded. Based on this, we need to understand whether the customer has subscribed to the term deposit or not.
-
-##### Business Problems
-- Run optimized campaigns to bring in more customers, and thereby increase the bank revenue ?
-- Increase long-term holdings which can be further invested in different financial instruments?
-
-##### Business Impact
-- Improve prediction -> identify common features of subscribing customers -> targeted campaigns
-- Improve prediction -> identify right target audience-> efficient budget for marketing
-- Improve prediction-> identify right frequency interval for campaign -> optimum campaign
-
-***
