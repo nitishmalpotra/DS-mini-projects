@@ -30,7 +30,9 @@ An international bank has done a multi-touch phone campaign. All the campaign an
 - Run optimized campaigns to bring in more customers, and thereby increase the bank revenue ?
 - Increase long-term holdings which can be further invested in different financial instruments?
 
-Business Impact
+##### Business Impact
 - Improve prediction -> identify common features of subscribing customers -> targeted campaigns
 - Improve prediction -> identify right target audience-> efficient budget for marketing
 - Improve prediction-> identify right frequency interval for campaign -> optimum campaign
+
+***
